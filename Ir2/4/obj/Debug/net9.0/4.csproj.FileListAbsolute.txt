@@ -1,0 +1,14 @@
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\obj\Debug\net9.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\obj\Debug\net9.0\4.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\obj\Debug\net9.0\4.AssemblyInfo.cs
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\obj\Debug\net9.0\4.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\bin\Debug\net9.0\4.exe
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\bin\Debug\net9.0\4.deps.json
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\bin\Debug\net9.0\4.runtimeconfig.json
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\bin\Debug\net9.0\4.dll
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\bin\Debug\net9.0\4.pdb
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\obj\Debug\net9.0\4.dll
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\obj\Debug\net9.0\refint\4.dll
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\obj\Debug\net9.0\4.pdb
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\obj\Debug\net9.0\4.genruntimeconfig.cache
+C:\Users\owner\Desktop\Politeh\kpz\lr2\4\obj\Debug\net9.0\ref\4.dll
