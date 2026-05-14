@@ -1,0 +1,14 @@
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\bin\Debug\net9.0\2.exe
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\bin\Debug\net9.0\2.deps.json
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\bin\Debug\net9.0\2.runtimeconfig.json
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\bin\Debug\net9.0\2.dll
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\bin\Debug\net9.0\2.pdb
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\obj\Debug\net9.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\obj\Debug\net9.0\2.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\obj\Debug\net9.0\2.AssemblyInfo.cs
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\obj\Debug\net9.0\2.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\obj\Debug\net9.0\2.dll
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\obj\Debug\net9.0\refint\2.dll
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\obj\Debug\net9.0\2.pdb
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\obj\Debug\net9.0\2.genruntimeconfig.cache
+C:\Users\owner\Desktop\Politeh\kpz\lr4\2\obj\Debug\net9.0\ref\2.dll
