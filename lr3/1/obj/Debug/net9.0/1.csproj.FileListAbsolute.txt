@@ -1,0 +1,14 @@
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\bin\Debug\net9.0\1.exe
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\bin\Debug\net9.0\1.deps.json
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\bin\Debug\net9.0\1.runtimeconfig.json
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\bin\Debug\net9.0\1.dll
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\bin\Debug\net9.0\1.pdb
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\obj\Debug\net9.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\obj\Debug\net9.0\1.AssemblyInfoInputs.cache
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\obj\Debug\net9.0\1.AssemblyInfo.cs
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\obj\Debug\net9.0\1.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\obj\Debug\net9.0\1.dll
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\obj\Debug\net9.0\refint\1.dll
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\obj\Debug\net9.0\1.pdb
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\obj\Debug\net9.0\1.genruntimeconfig.cache
+C:\Users\Bogdan\Desktop\Politeh\kpz\lr3\1\obj\Debug\net9.0\ref\1.dll
